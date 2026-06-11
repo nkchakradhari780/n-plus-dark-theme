@@ -26,7 +26,7 @@ Add screenshots here.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/n-plus-dark-theme.git
+git clone https://github.com/nkchakradhari780/n-plus-dark-theme.git
 cd n-plus-dark-theme
 ```
 
