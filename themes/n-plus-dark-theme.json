@@ -975,6 +975,25 @@
 			"settings": {
 				"foreground": "#F78C6C"
 			}
+		},
+		{
+			"name": "TOML Keys",
+			"scope": [
+				"support.type.property-name.toml",
+				"entity.other.attribute-name.toml"
+			],
+			"settings": {
+				"foreground": "#89DDFF"
+			}
+		},
+		{
+			"name": "TOML Strings",
+			"scope": [
+				"string.quoted.double.toml"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
 		}
 	],
 	"semanticTokenColors": {
