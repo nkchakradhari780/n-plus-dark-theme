@@ -994,6 +994,25 @@
 			"settings": {
 				"foreground": "#C3E88D"
 			}
+		},
+		{
+			"name": "Dotenv Keys",
+			"scope": [
+				"property.key.dotenv",
+				"variable.other.dotenv"
+			],
+			"settings": {
+				"foreground": "#89DDFF"
+			}
+		},
+		{
+			"name": "Dotenv Values",
+			"scope": [
+				"property.value.dotenv"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
 		}
 	],
 	"semanticTokenColors": {
